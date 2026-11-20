@@ -1,5 +1,10 @@
 # Ayni Commons
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/repo-social-dark.png">
+  <img alt="Ayni Commons wordmark with the C2 keystone symbol" src="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/repo-social-light.png">
+</picture>
+
 We believe owning your hardware should mean being able to understand how it works, maintain it, and decide what it does. We share source code, designs, and documentation so you can learn from what others have built and make something of your own.
 
 Our name comes from *ayni*, a living Andean practice of reciprocity. Neighbors help one another with work such as planting crops. In time, the people who received help return it when others need a hand. That ongoing exchange helps a community do work that would be harder for any one household to do alone. We take inspiration from it. In an open-source project, it might mean documenting a fix, helping someone adapt a design, or sharing a new design that began with somebody else’s work. [Smithsonian National Museum of the American Indian](https://americanindian.si.edu/nk360/inka-water/reciprocity/reciprocity)
