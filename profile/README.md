@@ -1,9 +1,11 @@
 # Ayni Commons
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/repo-social-dark.png">
-  <img alt="Ayni Commons wordmark with the C2 keystone symbol" src="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/repo-social-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/profile-banner-dark.png">
+  <img width="100%" alt="Ayni Commons wordmark with the C2 keystone symbol" src="https://raw.githubusercontent.com/Ayni-Commons/.github/main/assets/brand/profile-banner-light.png">
 </picture>
+
+### Own your hardware. Share source. Build on each other’s work.
 
 We believe owning your hardware should mean being able to understand how it works, maintain it, and decide what it does. We share source code, designs, and documentation so you can learn from what others have built and make something of your own.
 
