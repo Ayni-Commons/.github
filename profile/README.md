@@ -13,8 +13,8 @@ Our name comes from *ayni*, a living Andean practice of reciprocity. Neighbors h
 
 We publish our project software under open-source licenses. The choice varies by project and can include permissive or copyleft licenses. Each repository carries the terms for using, modifying, and redistributing its code.
 
-We also plan to offer optional paid services, such as hosted automation through Reyin Cloud. Revenue from those services helps pay for ongoing development, maintenance, and documentation. The project software remains available under its open-source license.
+We also plan to offer optional paid services, such as hosted automation through a Cloud. Revenue from those services helps pay for ongoing development, maintenance, and documentation. The project software remains available under its open-source license.
 
-Our first projects are **Reyin**, **Giano**, and **GianOS**. Each repository’s contribution guide will explain how to report an issue, propose a change, or share what you built with it.
+Our first projects are almost ready to be published. Each repository’s contribution guide will explain how to report an issue, propose a change, or share what you built with it.
 
 [Official logo files](https://github.com/Ayni-Commons/.github/tree/main/assets/brand) · [Brand-use permission](https://github.com/Ayni-Commons/.github/blob/main/BRAND-USE.md)
